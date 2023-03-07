@@ -6,8 +6,8 @@ import smtplib
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 ACCEPT_LANGUAGE = "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
-MAIL = "uuluyol0@gmail.com"
-PASSWORD = "gaotmxrlplprrktn"
+MAIL = ""
+PASSWORD = ""
 url = "https://www.amazon.com/Pioneer-DJ-Smart-Controller-DDJ-200/dp/B07RPW4PSS/ref=sr_1_2?crid=2DTSTCZ4TGD7I&keywords=Pioneer+DJ+DDJ-400&qid=1669725519&sprefix=pioneer+dj+ddj-400%2Caps%2C503&sr=8-2"
 header = {
     "User-Agent": USER_AGENT,
